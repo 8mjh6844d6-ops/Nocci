@@ -18,8 +18,6 @@ Con la licenza (una volta sola) si sbloccano l'assistente AI, la postura, i gioc
 2. Aprilo e trascina Nocci nella cartella Applicazioni.
 3. Al primo avvio macOS potrebbe bloccarlo: vai in Impostazioni di Sistema › Privacy e sicurezza e premi **Apri comunque**.
 
-Gli aggiornamenti arrivano da soli: Nocci li controlla e li installa con un clic (Impostazioni › Informazioni).
-
 ## Requisiti
 macOS 26.4 o successivo, Mac con notch.
 
